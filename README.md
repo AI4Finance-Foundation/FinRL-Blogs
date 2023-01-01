@@ -52,6 +52,10 @@ Welcome contributions from community members.
 
 + [Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://ranko-mosic.medium.com/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
 
+## Alpaca
+
++ [Comparing 3 Different Types of Neural Network Architectures in Finance](https://medium.com/automation-generation/comparing-3-different-types-of-neural-network-architectures-in-finance-9377902ae392)
+
 ## Mao Guan
 
 + [MLearning.ai] [An Empirical Approach to Explain Deep Reinforcement Learning in Portfolio Management Task](https://medium.com/mlearning-ai/an-empirical-approach-to-explain-deep-reinforcement-learning-in-portfolio-management-task-e65a42225d9d)
