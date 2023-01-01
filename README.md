@@ -1,6 +1,6 @@
 # Blogs
 
-Welcome contributions from community members.
+Looking forward to reading yours!
 
 ## News 
 
