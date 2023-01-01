@@ -53,7 +53,7 @@ Welcome contributions from community members.
 + [Coinmonks] [Crypto feature importance for Deep Reinforcement Learning](https://medium.com/coinmonks/crypto-feature-importance-for-deep-reinforcement-learning-38416616c2a36-8416616c2a36)
 + [Coinmonks] [Best technical indicators for Bitcoin from TA-lib](https://medium.com/coinmonks/best-technical-indicators-for-bitcoin-fromta-lib-fa5518560e)
 + [Towards AI] [The Combinatorial Purged Cross-Validation method](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5)
-+ [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning]([https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874))
++ [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874)
 
 ## Ranko Mosic
 
