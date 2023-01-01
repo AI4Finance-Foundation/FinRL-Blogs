@@ -48,6 +48,10 @@ Welcome contributions from community members.
 + [FinRL: Financial Reinforcement learning explainability using Shapley Values](https://medium.com/@athekunal/finrl-financial-reinforcement-learning-explainability-using-shapley-values-9a16bc24a934)
 
 
+## Ranko Mosic
+
++ [Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://ranko-mosic.medium.com/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
+
 ## Mao Guan
 
 + [MLearning.ai] [An Empirical Approach to Explain Deep Reinforcement Learning in Portfolio Management Task](https://medium.com/mlearning-ai/an-empirical-approach-to-explain-deep-reinforcement-learning-in-portfolio-management-task-e65a42225d9d)
