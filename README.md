@@ -47,3 +47,15 @@ Welcome contributions from community members.
 ## Mohit Maithani
 
 + [Analyticsindiamag.com] [How To Automate Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
+
+## Zeynep Tufekci
+
++ [Reinforcement Learning in Stock Prediction with FinRL](https://medium.com/@zeyneptufekci.etu)
+
+## Dan Pavlovic
+
++ [Reinforcement learning for the financial market — FinRL](https://dannoc1996.medium.com/reinforcement-learning-for-the-financial-market-finrl-c0ceeb3712f2)
+
+## Art Krisada
+
++ [FinRL Multiple Stock Trading](https://krisadas.medium.com/finrl-multiple-stock-trading-6f4499d592d4)
