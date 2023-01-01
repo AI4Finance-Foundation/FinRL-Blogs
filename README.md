@@ -2,6 +2,10 @@
 
 Welcome contributions from community members.
 
+## News
+
+[Hacker News @ Ycombinator][FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
+
 ## Xiao-Yang Liu and Steven Li
 
 + [Towardsdatascience] [ElegantRL-Helloworld: A Lightweight and Stable Deep Reinforcement Learning Library](https://towardsdatascience.com/elegantrl-a-lightweight-and-stable-deep-reinforcement-learning-library-95cef5f3460b)
