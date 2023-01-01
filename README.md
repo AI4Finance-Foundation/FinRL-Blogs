@@ -8,7 +8,7 @@ Looking forward to reading yours!
 + [NeurIPS 2020] [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://crossminds.ai/video/finrl-a-deep-reinforcement-learning-library-for-automated-stock-trading-in-quantitative-finance-606fdc01f43a7f2f827bf5c9/)
 + [Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
 
-## Xiao-Yang Liu and Steven Li
+## Xiao-Yang (Yanglet) Liu and Steven Li
 
 + [Towardsdatascience] [ElegantRL-Helloworld: A Lightweight and Stable Deep Reinforcement Learning Library](https://towardsdatascience.com/elegantrl-a-lightweight-and-stable-deep-reinforcement-learning-library-95cef5f3460b)
 + [Towardsdatascience] [ElegantRL: Mastering PPO Algorithms](https://medium.com/@elegantrl/elegantrl-mastering-the-ppo-algorithm-part-i-9f36bc47b791)
