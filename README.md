@@ -38,7 +38,15 @@ Welcome contributions from community members.
 + [Analytics Vidhya] [A hitchhikers guide to FinRL: A Deep Reinforcement Learning Framework for Quantitative Finance](https://medium.com/analytics-vidhya/a-hitchhikers-guide-to-finrl-a-deep-reinforcement-learning-framework-for-quantitative-finance-e624c508f763)
 + [Analytics Vidhya] [Hyperparameter tuning using optuna for FinRL](https://medium.com/analytics-vidhya/hyperparameter-tuning-using-optuna-for-finrl-8a49506d2741)
 + [Analytics Vidhya] [Weights and Biases-ify FinRL with Stable Baselines3 models](https://medium.com/analytics-vidhya/weights-and-biases-ify-stable-baselines-models-in-finrl-f11b67f2a6a7)
++ [Analytics Vidhya] [Deep Reinforcement Learnig in Algorithmic (Part- I)](https://medium.com/analytics-vidhya/deep-reinforcement-learning-in-algorithmic-trading-part-i-7088a4befd60)
++ [Analytics Vidhya] [Deep Reinforcement Learnig in Algorithmic (Part- II)](https://medium.com/analytics-vidhya/deep-reinforcement-learning-in-algorithmic-trading-part-ii-b78db754961c)
++ [Analytics Vidhya] [Financial Data Streaming using Alpaca and Streamlit](https://medium.com/analytics-vidhya/financial-data-streaming-using-alpaca-and-streamlit-88aa21c75f27)
 + [MLearning.ai] [Hyperparameter Optimization using Ray tune for FinRL models](https://medium.com/mlearning-ai/hyperparameter-optimization-using-ray-tune-for-finrl-models-42df2937d53d)
++ [MLearning.ai] [Google Trends Data for automated stock trading using Reinforcement learning](https://medium.com/mlearning-ai/google-trends-data-for-automated-stock-trading-using-reinforcement-learning-9c0fd6d00678)
++ [MLearning.ai] [FinRL: Population-Based algorithms implementation using Ray tune and RLlib](https://medium.com/mlearning-ai/finrl-population-based-algorithms-implementation-using-ray-tune-and-rllib-cdce7df66208)
++ [MLearning.ai] [Population-Based Algorithms for Hyperparameter Optimization in Reinforcement learning](https://medium.com/mlearning-ai/population-based-algorithms-for-hyperparameter-optimization-in-reinforcement-learning-b04ce2165533)
++ [FinRL: Financial Reinforcement learning explainability using Shapley Values](https://medium.com/@athekunal/finrl-financial-reinforcement-learning-explainability-using-shapley-values-9a16bc24a934)
+
 
 ## Mao Guan
 
