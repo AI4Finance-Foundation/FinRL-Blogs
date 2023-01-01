@@ -2,9 +2,11 @@
 
 Welcome contributions from community members.
 
-## News
+## News 
 
-[Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
++ [NeurIPS 2020] [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance]([https://news.ycombinator.com/item?id=30819436](https://crossminds.ai/video/finrl-a-deep-reinforcement-learning-library-for-automated-stock-trading-in-quantitative-finance-606fdc01f43a7f2f827bf5c9/))
+
++ [Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
 
 ## Xiao-Yang Liu and Steven Li
 
@@ -59,13 +61,17 @@ Welcome contributions from community members.
 + [Towards AI] [The Combinatorial Purged Cross-Validation method](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5)
 + [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874)
 
-## Ranko Mosic
+## Ranko Mosic at JP Morgan Chase
 
 + [Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://ranko-mosic.medium.com/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
 
 ## Alpaca
 
 + [Comparing 3 Different Types of Neural Network Architectures in Finance](https://medium.com/automation-generation/comparing-3-different-types-of-neural-network-architectures-in-finance-9377902ae392)
+
+## NO-MAGIC on Kaggle
+
++ [Kaggle] [Deep Reinforcement Learning for Stock Trading - 1](https://www.kaggle.com/code/learnmore1/deep-reinforcement-learning-for-stock-trading-1)
 
 ## Anmol Mann 
 
