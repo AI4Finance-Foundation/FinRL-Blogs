@@ -4,8 +4,8 @@ Welcome contributions from community members.
 
 ## News 
 
-+ [NeurIPS 2021] [FinRL-Meta: A Universe of Near-­Real Market Environments for Data­-Driven Deep Reinforcement Learning in Quantitative Finance](https://slideslive.com/38971905/finrlmeta-a-universe-of-nearreal-market-environments-for-datadriven-deep-reinforcement-learning-in-quantitative-finance?ref=recommended)
-+ [NeurIPS 2020] [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance]([https://news.ycombinator.com/item?id=30819436](https://crossminds.ai/video/finrl-a-deep-reinforcement-learning-library-for-automated-stock-trading-in-quantitative-finance-606fdc01f43a7f2f827bf5c9/))
++ [NeurIPS 2021] [FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance](https://slideslive.com/38971905/finrlmeta-a-universe-of-nearreal-market-environments-for-datadriven-deep-reinforcement-learning-in-quantitative-finance?ref=recommended)
++ [NeurIPS 2020] [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://news.ycombinator.com/item?id=30819436](https://crossminds.ai/video/finrl-a-deep-reinforcement-learning-library-for-automated-stock-trading-in-quantitative-finance-606fdc01f43a7f2f827bf5c9/)
 + [Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
 
 ## Xiao-Yang Liu and Steven Li
