@@ -4,7 +4,7 @@ Welcome contributions from community members.
 
 ## News
 
-[Hacker News @ Ycombinator][FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
+[Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
 
 ## Xiao-Yang Liu and Steven Li
 
