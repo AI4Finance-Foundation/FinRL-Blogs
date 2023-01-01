@@ -63,6 +63,10 @@ Welcome contributions from community members.
 
 + [Comparing 3 Different Types of Neural Network Architectures in Finance](https://medium.com/automation-generation/comparing-3-different-types-of-neural-network-architectures-in-finance-9377902ae392)
 
+## Anmol Mann 
+
++ [WandB] [Optimize Portfolio Allocation using FinRL](https://wandb.ai/anmolmann/finRL-portfolio-allocation-2/reports/Optimize-Portfolio-Allocation-using-FinRL--Vmlldzo4MjE4MTM)
+
 ## Mao Guan
 
 + [MLearning.ai] [An Empirical Approach to Explain Deep Reinforcement Learning in Portfolio Management Task](https://medium.com/mlearning-ai/an-empirical-approach-to-explain-deep-reinforcement-learning-in-portfolio-management-task-e65a42225d9d)
