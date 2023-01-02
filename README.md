@@ -100,6 +100,10 @@ Looking forward to reading yours!
  
 + [Automated stock trading using Deep Reinforcement Learning with Fundamental Indicators](https://medium.com/@mariko.sawada1/automated-stock-trading-with-deep-reinforcement-learning-and-financial-data-a63286ccbe2b)
 
+## Harsha Andey
+
++ [Deep Reinforcement Learning for Trading Cryptocurrencies](https://medium.com/coinmonks/deep-reinforcement-learning-for-trading-cryptocurrencies-5b5502b1ece1)
+
 ## Mohit Maithani
 
 + [Analyticsindiamag.com] [How To Automate Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
