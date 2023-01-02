@@ -104,6 +104,10 @@ Looking forward to reading yours!
 
 + [Deep Reinforcement Learning for Trading Cryptocurrencies](https://medium.com/coinmonks/deep-reinforcement-learning-for-trading-cryptocurrencies-5b5502b1ece1)
 
+## Roshan Adusumilli
+
++ [DataDrivenInvestor] [Reinforcement Learning for Options Trading](https://medium.datadriveninvestor.com/reinforcement-learning-for-options-trading-765c84d0d97d)
+
 ## Mohit Maithani
 
 + [Analyticsindiamag.com] [How To Automate Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
