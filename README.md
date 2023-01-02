@@ -73,6 +73,12 @@ Looking forward to reading yours!
 + [Towards AI] [The Combinatorial Purged Cross-Validation method](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5)
 + [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874)
 
+## Matthew Brulhardt
+
++ [Level Up Coding] [Using TensorTrade for Making a Simple Trading Algorithm](https://levelup.gitconnected.com/using-tensortrade-for-making-a-simple-trading-algorithm-6fad4d9bc79c)
++ [Level Up Coding] [Portfolio Allocation with TensorTrade: (Part 1/2)](https://levelup.gitconnected.com/portfolio-allocation-with-tensortrade-part-1-2-1d0c3b126bf6)
++ [Level Up Coding] [Portfolio Allocation with TensorTrade: (Part 2/2)](https://levelup.gitconnected.com/portfolio-allocation-with-tensortrade-part-2-2-9ac30a6bcbfe)
+
 ## Tom Grek
 + [Towardsdatascience] [A blundering guide to making a deep actor-critic bot for stock trading](https://medium.com/@tomgrek/heres-what-happened-when-i-gave-control-of-my-robinhood-account-to-an-ai-for-a-week-3309d62567c4)
 
