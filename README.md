@@ -43,8 +43,8 @@ Looking forward to reading yours!
 
 + [Towards Data Science] [Create custom gym environments from scratch — A stock market example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e)
 + [Towards Data Science] [Rendering elegant stock trading agents using Matplotlib and Gym](https://medium.com/towards-data-science/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4)
-+ [Towards Data Science] [Creating Bitcoin trading bots don’t lose money] (https://medium.com/towards-data-science/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29)
-+ [Towards Data Science] [Optimizing deep learning trading bots using state-of-the-art techniques] (https://medium.com/towards-data-science/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b)
++ [Towards Data Science] [Creating Bitcoin trading bots don’t lose money](https://medium.com/towards-data-science/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29)
++ [Towards Data Science] [Optimizing deep learning trading bots using state-of-the-art techniques](https://medium.com/towards-data-science/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b)
 + [Towards Data Science] [Trade and Invest Smarter — The Reinforcement Learning Way](https://medium.com/towards-data-science/trade-smarter-w-reinforcement-learning-a5e91163f315)
 
 ## Astarag Mohapatra
