@@ -115,6 +115,10 @@ Looking forward to reading yours!
 
 + [Deep Reinforcement Learning for Trading Cryptocurrencies](https://medium.com/coinmonks/deep-reinforcement-learning-for-trading-cryptocurrencies-5b5502b1ece1)
 
+## Aaron Krumins
+
++ [DataDrivenInvestor] [Using the Game Engine for Automated Cryptocurrency Trading (Without a Single Line of Code)](https://medium.datadriveninvestor.com/using-the-game-engine-for-automated-stock-trading-without-a-single-line-of-code-31d46f548ab2)
+
 ## Roshan Adusumilli
 
 + [DataDrivenInvestor] [Reinforcement Learning for Options Trading](https://medium.datadriveninvestor.com/reinforcement-learning-for-options-trading-765c84d0d97d)
