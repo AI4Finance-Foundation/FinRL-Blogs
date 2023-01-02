@@ -69,6 +69,9 @@ Looking forward to reading yours!
 + [Towards AI] [The Combinatorial Purged Cross-Validation method](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5)
 + [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874)
 
+## Tom Grek
++ [Towardsdatascience] [A blundering guide to making a deep actor-critic bot for stock trading](https://medium.com/@tomgrek/heres-what-happened-when-i-gave-control-of-my-robinhood-account-to-an-ai-for-a-week-3309d62567c4)
+
 ## Ranko Mosic at JP Morgan Chase
 
 + [Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://ranko-mosic.medium.com/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
