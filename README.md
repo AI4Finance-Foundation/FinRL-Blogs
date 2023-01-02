@@ -136,6 +136,10 @@ Looking forward to reading yours!
 
 + [Model-Free Reinforcement Learning for Asset Allocation](https://mutegi-timothy.medium.com/model-free-reinforcement-learning-for-asset-allocation-9cf95dde069a)
 
+## EASON
+
++ [Use Reinforcement Learning to do Algorithmic Trading](https://espaceship.medium.com/use-reinforcement-learning-to-rule-over-algorithmic-trading-a32c891774)
+
 
 ## Shivam Akhauri
 
