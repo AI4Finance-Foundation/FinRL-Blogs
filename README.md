@@ -123,6 +123,12 @@ Looking forward to reading yours!
 
 + [Analyticsindiamag.com] [How To Automate Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
 
+## Andrey Babynin
+
++ [Reinforcement learning in trading (Part 1)](https://andreybabynin.medium.com/reinforcement-learning-in-trading-part-1-d0920d69b526)
++ [Reinforcement learning in Trading (part 2 - the last)](https://andreybabynin.medium.com/reinforcement-learning-in-trading-part-2-the-last-9af547fb4203)
+
+
 ## Shivam Akhauri
 
 + [ETHER Labs] [TradeBot: Stock Trading using Reinforcement Learning — Part1](https://medium.com/ether-labs/tradebot-stock-trading-using-reinforcement-learning-part1-8b67c9603f33)
