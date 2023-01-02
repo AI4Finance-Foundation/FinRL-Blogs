@@ -39,6 +39,14 @@ Looking forward to reading yours!
 + [MLearning.ai] [Financial Metaverse as a Playground for Financial Machine Learning](https://medium.com/@zx2325/finrl-meta-from-market-environments-to-a-financial-metaverse-5db8490a83df)
 + [InsiderFinance Wire] [Awesome Deep Reinforcement Learning in Finance](https://medium.com/insiderfinance/awesome-deep-reinforcement-learning-in-finance-f319f4302897)
 
+## Adam King
+
++ [Towards Data Science] [Create custom gym environments from scratch — A stock market example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e)
++ [Towards Data Science] [Rendering elegant stock trading agents using Matplotlib and Gym](https://medium.com/towards-data-science/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4)
++ [Towards Data Science] [Creating Bitcoin trading bots don’t lose money] (https://medium.com/towards-data-science/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29)
++ [Towards Data Science] [Optimizing deep learning trading bots using state-of-the-art techniques] (https://medium.com/towards-data-science/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b)
++ [Towards Data Science] [Trade and Invest Smarter — The Reinforcement Learning Way](https://medium.com/towards-data-science/trade-smarter-w-reinforcement-learning-a5e91163f315)
+
 ## Astarag Mohapatra
 
 + [Analytics Vidhya] [A hitchhikers guide to FinRL: A Deep Reinforcement Learning Framework for Quantitative Finance](https://medium.com/analytics-vidhya/a-hitchhikers-guide-to-finrl-a-deep-reinforcement-learning-framework-for-quantitative-finance-e624c508f763)
