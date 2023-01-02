@@ -100,6 +100,11 @@ Looking forward to reading yours!
  
 + [Automated stock trading using Deep Reinforcement Learning with Fundamental Indicators](https://medium.com/@mariko.sawada1/automated-stock-trading-with-deep-reinforcement-learning-and-financial-data-a63286ccbe2b)
 
+## Letian Wang
+
++ [The Startup] [Option Pricing Using Reinforcement Learning](https://medium.com/swlh/option-pricing-using-reinforcement-learning-ad2ddca7735b)
++ [From Reinforcement Gamer to Reinforcement Trader](https://letian-wang.medium.com/from-reinforcement-gamer-to-reinforcement-trader-8b0a7ef8b53f)
+
 ## Harsha Andey
 
 + [Deep Reinforcement Learning for Trading Cryptocurrencies](https://medium.com/coinmonks/deep-reinforcement-learning-for-trading-cryptocurrencies-5b5502b1ece1)
