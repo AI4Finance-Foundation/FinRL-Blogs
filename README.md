@@ -128,6 +128,10 @@ Looking forward to reading yours!
 + [Reinforcement learning in trading (Part 1)](https://andreybabynin.medium.com/reinforcement-learning-in-trading-part-1-d0920d69b526)
 + [Reinforcement learning in Trading (part 2 - the last)](https://andreybabynin.medium.com/reinforcement-learning-in-trading-part-2-the-last-9af547fb4203)
 
+## Timothy Mutegi
+
++ [Model-Free Reinforcement Learning for Asset Allocation](https://mutegi-timothy.medium.com/model-free-reinforcement-learning-for-asset-allocation-9cf95dde069a)
+
 
 ## Shivam Akhauri
 
