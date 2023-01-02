@@ -37,6 +37,7 @@ Looking forward to reading yours!
 + [DataDrivenInvestor] [FinRL-Meta: A Universe of Near Real-Market En­vironments for Data­-Driven Financial Reinforcement Learning](https://medium.datadriveninvestor.com/finrl-meta-a-universe-of-near-real-market-en-vironments-for-data-driven-financial-reinforcement-e1894e1ebfbd)
 + [DataDrivenInvestor] [FinRL-Meta User Guide](https://ai4finance.medium.com/finrl-meta-user-guide-f1d6911f1de5)
 + [DataDrivenInvestor] [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://medium.datadriveninvestor.com/finrl-meta-market-environments-and-benchmarks-for-data-driven-financial-reinforcement-learning-7af8e747c4bd)
++ [Feature Importance with Deep Neural Network for Cryptocurrencies](https://ai4finance.medium.com/feature-importance-with-deep-neural-network-for-cryptocurrencies-f06191e2d562)
 
 ## Joey Xia
 
