@@ -79,6 +79,13 @@ Looking forward to reading yours!
 + [Level Up Coding] [Portfolio Allocation with TensorTrade: (Part 1/2)](https://levelup.gitconnected.com/portfolio-allocation-with-tensortrade-part-1-2-1d0c3b126bf6)
 + [Level Up Coding] [Portfolio Allocation with TensorTrade: (Part 2/2)](https://levelup.gitconnected.com/portfolio-allocation-with-tensortrade-part-2-2-9ac30a6bcbfe)
 
+## Prakhar Gurawa
+
++ [InsiderFinance Wire] [Transitioning from Supervised Learning systems to Multi-Agent Reinforcement learning for financial platforms - Part 1](https://wire.insiderfinance.io/transitioning-from-supervised-learning-systems-to-multi-agent-reinforcement-learning-for-financial-d96c2c56a6fd)
++ [InsiderFinance Wire] [Transitioning from Supervised Learning systems to Multi-Agent Reinforcement learning for financial platforms — Part 2](https://wire.insiderfinance.io/transitioning-from-supervised-learning-systems-to-multi-agent-reinforcement-learning-for-financial-7e8b6cd07d1e)
++ [InsiderFinance Wire] [Transitioning from Supervised Learning systems to Multi-Agent Reinforcement learning for financial platforms — Part 3](https://wire.insiderfinance.io/transitioning-from-supervised-learning-systems-to-multi-agent-reinforcement-learning-for-financial-e90cb394de2b)
+
+
 ## Tom Grek
 + [Towardsdatascience] [A blundering guide to making a deep actor-critic bot for stock trading](https://medium.com/@tomgrek/heres-what-happened-when-i-gave-control-of-my-robinhood-account-to-an-ai-for-a-week-3309d62567c4)
 
