@@ -2,6 +2,9 @@
 
 Looking forward to reading yours!
 
+A guidance survey paper: 
+Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement learning in finance." arXiv preprint arXiv:2112.04553 (2021).
+
 ## Videos or News 
 
 + [NeurIPS 2021] [FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance](https://slideslive.com/38971905/finrlmeta-a-universe-of-nearreal-market-environments-for-datadriven-deep-reinforcement-learning-in-quantitative-finance?ref=recommended)
