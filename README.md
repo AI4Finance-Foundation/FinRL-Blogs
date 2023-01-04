@@ -65,6 +65,7 @@ Looking forward to reading yours!
 + [MLearning.ai] [FinRL: Population-Based algorithms implementation using Ray tune and RLlib](https://medium.com/mlearning-ai/finrl-population-based-algorithms-implementation-using-ray-tune-and-rllib-cdce7df66208)
 + [MLearning.ai] [Population-Based Algorithms for Hyperparameter Optimization in Reinforcement learning](https://medium.com/mlearning-ai/population-based-algorithms-for-hyperparameter-optimization-in-reinforcement-learning-b04ce2165533)
 + [FinRL: Financial Reinforcement learning explainability using Shapley Values](https://medium.com/@athekunal/finrl-financial-reinforcement-learning-explainability-using-shapley-values-9a16bc24a934)
++ [Ray tune user guide for hyperparameter optimization](https://athekunal.medium.com/ray-tune-user-guide-for-hyperparameter-optimization-d6bdfa2b06)
 
 
 ## Barend
