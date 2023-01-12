@@ -5,12 +5,6 @@ Looking forward to reading yours!
 A guidance survey paper: 
 Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement learning in finance." arXiv preprint arXiv:2112.04553 (2021).
 
-## Videos or News 
-
-+ [NeurIPS 2021] [FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance](https://slideslive.com/38971905/finrlmeta-a-universe-of-nearreal-market-environments-for-datadriven-deep-reinforcement-learning-in-quantitative-finance?ref=recommended)
-+ [NeurIPS 2020] [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://crossminds.ai/video/finrl-a-deep-reinforcement-learning-library-for-automated-stock-trading-in-quantitative-finance-606fdc01f43a7f2f827bf5c9/)
-+ [Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
-
 ## ODSC - Open Data Science
 
 + [First Steps Before Applying Reinforcement Learning for Trading](https://odsc.medium.com/first-steps-before-applying-reinforcement-learning-for-trading-f45c15e98bca)
@@ -168,3 +162,9 @@ Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement lea
 ## Art Krisada
 
 + [FinRL Multiple Stock Trading](https://krisadas.medium.com/finrl-multiple-stock-trading-6f4499d592d4)
+
+## Videos or News 
+
++ [NeurIPS 2021] [FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance](https://slideslive.com/38971905/finrlmeta-a-universe-of-nearreal-market-environments-for-datadriven-deep-reinforcement-learning-in-quantitative-finance?ref=recommended)
++ [NeurIPS 2020] [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://crossminds.ai/video/finrl-a-deep-reinforcement-learning-library-for-automated-stock-trading-in-quantitative-finance-606fdc01f43a7f2f827bf5c9/)
++ [Hacker News @ Ycombinator] [FinRL: The first open-source project for financial reinforcement learning](https://news.ycombinator.com/item?id=30819436)
