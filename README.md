@@ -2,7 +2,8 @@
 
 Looking forward to reading yours!
 
-A guidance survey paper: 
+A good survey paper: 
+
 Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement learning in finance." arXiv preprint arXiv:2112.04553 (2021).
 
 ## ODSC - Open Data Science
