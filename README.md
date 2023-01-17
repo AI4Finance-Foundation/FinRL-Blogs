@@ -2,6 +2,12 @@
 
 Looking forward to reading yours!
 
+## News
+
+  A [YouTube video](https://www.youtube.com/watch?v=fhBw3j_O9LE) combining chatGPT and FinRL.
+
+## Survey paper
+
 A good survey paper: 
 
 Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement learning in finance." arXiv preprint arXiv:2112.04553 (2021).
