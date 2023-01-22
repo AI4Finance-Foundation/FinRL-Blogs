@@ -12,6 +12,10 @@ A good survey paper:
 
 Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement learning in finance." arXiv preprint arXiv:2112.04553 (2021).
 
+## Conventional Machine Learning Methods
+
++ [Mean-Variance Optimization of Portfolios](https://www.kaggle.com/code/vijipai/lesson-5-mean-variance-optimization-of-portfolios/notebook)
+
 ## ODSC - Open Data Science
 
 + [First Steps Before Applying Reinforcement Learning for Trading](https://odsc.medium.com/first-steps-before-applying-reinforcement-learning-for-trading-f45c15e98bca)
