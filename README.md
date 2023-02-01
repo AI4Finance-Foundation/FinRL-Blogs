@@ -60,6 +60,14 @@ Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement lea
 + [Towards Data Science] [Optimizing deep learning trading bots using state-of-the-art techniques](https://medium.com/towards-data-science/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b)
 + [Towards Data Science] [Trade and Invest Smarter — The Reinforcement Learning Way](https://medium.com/towards-data-science/trade-smarter-w-reinforcement-learning-a5e91163f315)
 
+## Barend
+
++ [Coinmonks] [Crypto feature importance for Deep Reinforcement Learning](https://medium.com/coinmonks/crypto-feature-importance-for-deep-reinforcement-learning-38416616c2a36-8416616c2a36)
++ [Coinmonks] [Best technical indicators for Bitcoin from TA-lib](https://medium.com/coinmonks/best-technical-indicators-for-bitcoin-fromta-lib-fa5518560e)
++ [Towards AI] [The Combinatorial Purged Cross-Validation method](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5)
++ [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874)
++ [Towards AI] [Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting](https://pub.towardsai.net/deep-reinforcement-learning-for-cryptocurrency-trading-practical-approach-to-address-backtest-2aebfd5fa030)
+
 ## Astarag Mohapatra
 
 + [Analytics Vidhya] [A hitchhikers guide to FinRL: A Deep Reinforcement Learning Framework for Quantitative Finance](https://medium.com/analytics-vidhya/a-hitchhikers-guide-to-finrl-a-deep-reinforcement-learning-framework-for-quantitative-finance-e624c508f763)
@@ -74,14 +82,6 @@ Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement lea
 + [MLearning.ai] [Population-Based Algorithms for Hyperparameter Optimization in Reinforcement learning](https://medium.com/mlearning-ai/population-based-algorithms-for-hyperparameter-optimization-in-reinforcement-learning-b04ce2165533)
 + [FinRL: Financial Reinforcement learning explainability using Shapley Values](https://medium.com/@athekunal/finrl-financial-reinforcement-learning-explainability-using-shapley-values-9a16bc24a934)
 + [Ray tune user guide for hyperparameter optimization](https://athekunal.medium.com/ray-tune-user-guide-for-hyperparameter-optimization-d6bdfa2b06)
-
-
-## Barend
-
-+ [Coinmonks] [Crypto feature importance for Deep Reinforcement Learning](https://medium.com/coinmonks/crypto-feature-importance-for-deep-reinforcement-learning-38416616c2a36-8416616c2a36)
-+ [Coinmonks] [Best technical indicators for Bitcoin from TA-lib](https://medium.com/coinmonks/best-technical-indicators-for-bitcoin-fromta-lib-fa5518560e)
-+ [Towards AI] [The Combinatorial Purged Cross-Validation method](https://medium.com/towards-artificial-intelligence/the-combinatorial-purged-cross-validation-method-363eb378a9c5)
-+ [Towards AI] [Combinatorial PurgedKFold Cross-Validation for Deep Reinforcement Learning](https://medium.com/towards-artificial-intelligence/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874)
 
 ## Matthew Brulhardt
 
