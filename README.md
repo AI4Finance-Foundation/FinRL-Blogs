@@ -2,6 +2,9 @@
 
 Looking forward to reading yours!
 
+
+[ChatGPT for FinTech](https://github.com/AI4Finance-Foundation/ChatGPT-for-FinTech)
+
 ## News
 
   A [YouTube video](https://www.youtube.com/watch?v=fhBw3j_O9LE) combining chatGPT and FinRL.
