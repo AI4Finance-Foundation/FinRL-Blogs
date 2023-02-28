@@ -52,7 +52,10 @@ Hambly, Ben, Renyuan Xu, and Huining Yang. "Recent advances in reinforcement lea
 
 ## Joey Xia
 
++ [MLearning.ai] [Introduction to the World of Financial Reinforcement Learning: Part.1 Download Data](https://medium.com/mlearning-ai/introduction-to-the-world-of-financial-reinforcement-learning-part-1-download-data-1a8c0c5d03c5)
++ [MLearning.ai] [Introduction to the World of Financial Reinforcement Learning: Part.2 Train Agents](https://medium.com/mlearning-ai/introduction-to-the-world-of-financial-reinforcement-learning-part-2-train-agents-1d1fa8a18a5e)
 + [MLearning.ai] [Financial Metaverse as a Playground for Financial Machine Learning](https://medium.com/@zx2325/finrl-meta-from-market-environments-to-a-financial-metaverse-5db8490a83df)
++ [InsiderFinance Wire] [Introduction of Data APIs in FinRL — Tushare](https://medium.com/insiderfinance/introduction-of-data-apis-in-finrl-tushare-f720b8da4e46)
 + [InsiderFinance Wire] [Awesome Deep Reinforcement Learning in Finance](https://medium.com/insiderfinance/awesome-deep-reinforcement-learning-in-finance-f319f4302897)
 
 ## Adam King
