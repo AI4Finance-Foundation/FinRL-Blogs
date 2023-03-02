@@ -7,7 +7,7 @@ Looking forward to reading yours!
 
 ## News
 
-  A [YouTube video](https://www.youtube.com/watch?v=fhBw3j_O9LE) combining chatGPT and FinRL.
+  A [YouTube video](https://www.youtube.com/watch?v=fhBw3j_O9LE) combining ChatGPT and FinRL.
 
 ## Survey paper
 
